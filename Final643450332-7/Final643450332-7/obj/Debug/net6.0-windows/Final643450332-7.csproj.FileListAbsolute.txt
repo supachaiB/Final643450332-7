@@ -1,0 +1,7 @@
+C:\Users\Admins\source\repos\Final643450332-7\Final643450332-7\Final643450332-7\obj\Debug\net6.0-windows\Final643450332-7.csproj.AssemblyReference.cache
+C:\Users\Admins\source\repos\Final643450332-7\Final643450332-7\Final643450332-7\obj\Debug\net6.0-windows\Final643450332_7.Form1.resources
+C:\Users\Admins\source\repos\Final643450332-7\Final643450332-7\Final643450332-7\obj\Debug\net6.0-windows\Final643450332-7.csproj.GenerateResource.cache
+C:\Users\Admins\source\repos\Final643450332-7\Final643450332-7\Final643450332-7\obj\Debug\net6.0-windows\Final643450332-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admins\source\repos\Final643450332-7\Final643450332-7\Final643450332-7\obj\Debug\net6.0-windows\Final643450332-7.AssemblyInfoInputs.cache
+C:\Users\Admins\source\repos\Final643450332-7\Final643450332-7\Final643450332-7\obj\Debug\net6.0-windows\Final643450332-7.AssemblyInfo.cs
+C:\Users\Admins\source\repos\Final643450332-7\Final643450332-7\Final643450332-7\obj\Debug\net6.0-windows\Final643450332-7.csproj.CoreCompileInputs.cache
